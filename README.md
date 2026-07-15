@@ -35,10 +35,11 @@ The project demonstrates the complete design process of an analog electronic cir
 - EasyEDA
 - Circuit Simulation
 
+```text
 Triangular-Signal-Generator
 │
 ├── README.md
 ├── schematics
 ├── simulations
-└── pcb
-
+└── docs
+```
