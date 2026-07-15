@@ -36,9 +36,9 @@ The project demonstrates the complete design process of an analog electronic cir
 - Circuit Simulation
 
 Triangular-Signal-Generator
-|
-|── README.md
+│
+├── README.md
 ├── schematics
 ├── simulations
-├── pcb
+└── pcb
 
