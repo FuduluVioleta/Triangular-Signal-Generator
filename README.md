@@ -26,7 +26,7 @@ The project demonstrates the complete design process of an analog electronic cir
 
 ## Electrical Schematic
 
-![Electrical Schematic](schematics/schematic_orcad.png)
+![Electrical Schematic](schematics/schematic_orcad.jpeg)
 
 ## Technologies
 
@@ -37,7 +37,7 @@ The project demonstrates the complete design process of an analog electronic cir
 
 Triangular-Signal-Generator
 |
-│── README.md
+|── README.md
 ├── schematics
 ├── simulations
 ├── pcb
